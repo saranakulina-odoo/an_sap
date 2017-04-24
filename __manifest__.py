@@ -1,16 +1,14 @@
 {
-    'name': 'Web Disable Export Clients',
+    'name': 'SAP Enhancement Module',
     'version': '1.0',
     'category': 'Extra Tools',
-    'description': """Only Show Export for Admin""",
+    'description': """ Extra Module for SAP B1""",
     'depends': ['web'],
     'data': [
         'view/disable_export_view.xml',
     ],
     'application': True,
-    'sequence': 0,
-    'price': '0',
-    "currency": 'EUR',
+    'sequence': 0, 
     'images': [],
-    'support': 'thanhchatvn@gmail.com'
+    'support': 'andyut@outlook.com'
 }
